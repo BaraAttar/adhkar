@@ -1,0 +1,32 @@
+.
+├── core
+│   ├── database
+│   │   └── db_helper.dart
+│   ├── router
+│   │   ├── app_router.dart
+│   │   └── scaffold_with_nav_bar.dart
+│   ├── theme
+│   │   └── app_theme.dart
+│   └── utils
+│       └── logger.dart
+├── features
+│   ├── home
+│   │   ├── pages
+│   │   │   ├── dhikr_detail_page_v2.dart
+│   │   │   ├── dhikr_detail_page.dart
+│   │   │   ├── home_page.dart
+│   │   │   └── other_adhkar_page.dart
+│   │   ├── services
+│   │   │   └── prayer_time_service.dart
+│   │   └── widgets
+│   │       ├── category_card.dart
+│   │       ├── home_header.dart
+│   │       ├── prayer_times_card.dart
+│   │       ├── progress_card.dart
+│   │       └── support_card.dart
+│   └── settings
+│       └── settings_page.dart
+├── main.dart
+└── tree.txt
+
+12 directories, 18 files

@@ -1,0 +1,23 @@
+[
+    {
+        "category": "other",
+        "subcategory": "tasbih",
+        "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
+        "count_limit": 100,
+        "virtue": "حطت خطاياه وإن كانت مثل زبد البحر."
+    },
+    {
+        "category": "other",
+        "subcategory": "tasbih",
+        "text": "لا حَوْلَ وَلا قُوَّةَ إِلاَّ بِاللهِ",
+        "count_limit": 100,
+        "virtue": "كنز من كنوز الجنة."
+    },
+    {
+        "category": "other",
+        "subcategory": "prophetic_duaa",
+        "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ العَفْوَ وَالعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+        "count_limit": 1,
+        "virtue": "دعاء مأثور عن النبي صلى الله عليه وسلم للعافية والوقاية."
+    }
+]
